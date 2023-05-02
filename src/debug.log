@@ -1,0 +1,3 @@
+[0704/162829.192:ERROR:crashpad.cc(145)] Failed to get activation factory for IPlatformDiagnosticsAndUsageDataSettingsStatics
+[0120/165415.792:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0121/083646.582:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
